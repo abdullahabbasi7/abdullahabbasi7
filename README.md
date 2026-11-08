@@ -8,7 +8,7 @@
 [![University](https://img.shields.io/badge/SZABIST-Islamabad-0891B2?style=for-the-badge&logo=googlemaps&logoColor=white)](https://szabist-isb.edu.pk/)
 ![Focus](https://img.shields.io/badge/Focus-ML_%7C_NLP_%7C_LLM_Agents-F59E0B?style=for-the-badge&logo=langchain&logoColor=white)
 <a href="https://www.linkedin.com/in/%E1%B4%80%CA%99%E1%B4%85%E1%B4%9C%CA%9F%CA%9F%E1%B4%80%CA%9C-%E1%B4%80%CA%99%CA%99%E1%B4%80%EA%9C%B1%C9%AA-628bb6293/"><img src="https://skillicons.dev/icons?i=linkedin" height="28" alt="LinkedIn icon"/></a>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah_Abbasi-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/%E1%B4%80%CA%99%E1%B4%85%E1%B4%9C%CA%9F%CA%9F%E1%B4%80%CA%9C-%E1%B4%80%CA%99%CA%99%E1%B4%80%EA%9C%B1%C9%AA-628bb6293/)
+[![Abdullah Abbasi on LinkedIn](https://img.shields.io/badge/Abdullah_Abbasi-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/%E1%B4%80%CA%99%E1%B4%85%E1%B4%9C%CA%9F%CA%9F%E1%B4%80%CA%9C-%E1%B4%80%CA%99%CA%99%E1%B4%80%EA%9C%B1%C9%AA-628bb6293/)
 
 </div>
 
