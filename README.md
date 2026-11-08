@@ -5,8 +5,10 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0891B2&center=true&vCenter=true&width=700&lines=BS+Artificial+Intelligence+%40+SZABIST+Islamabad;Teaching+machines+to+read+Roman+Urdu;Building+PULSE%3A+a+12-module+AI+platform;Turning+ML+models+into+working+software" alt="BS Artificial Intelligence at SZABIST Islamabad"/>
 
 ![Degree](https://img.shields.io/badge/BS-Artificial_Intelligence-1E3A8A?style=for-the-badge&logo=googlescholar&logoColor=white)
-![University](https://img.shields.io/badge/SZABIST-Islamabad-0891B2?style=for-the-badge&logo=googlemaps&logoColor=white)
+[![University](https://img.shields.io/badge/SZABIST-Islamabad-0891B2?style=for-the-badge&logo=googlemaps&logoColor=white)](https://szabist-isb.edu.pk/)
 ![Focus](https://img.shields.io/badge/Focus-ML_%7C_NLP_%7C_LLM_Agents-F59E0B?style=for-the-badge&logo=langchain&logoColor=white)
+<a href="https://www.linkedin.com/in/%E1%B4%80%CA%99%E1%B4%85%E1%B4%9C%CA%9F%CA%9F%E1%B4%80%CA%9C-%E1%B4%80%CA%99%CA%99%E1%B4%80%EA%9C%B1%C9%AA-628bb6293/"><img src="https://skillicons.dev/icons?i=linkedin" height="28" alt="LinkedIn icon"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah_Abbasi-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/%E1%B4%80%CA%99%E1%B4%85%E1%B4%9C%CA%9F%CA%9F%E1%B4%80%CA%9C-%E1%B4%80%CA%99%CA%99%E1%B4%80%EA%9C%B1%C9%AA-628bb6293/)
 
 </div>
 
@@ -14,7 +16,7 @@
 
 > 🧠 **Turning machine learning models into working software.**
 
-- 🎓 Studying **BS Artificial Intelligence** at **SZABIST Islamabad**
+- 🎓 Studying **BS Artificial Intelligence** at **[SZABIST Islamabad](https://szabist-isb.edu.pk/)**
 - 🗣️ Teaching machines to read catering inquiries in **English and Roman Urdu**
 - 🤖 Built a **multi-agent LLM pipeline** with LangGraph
 - 🔭 Building **PULSE**, my final-year AI platform, supervised by Mr. Hamza Imran
@@ -70,4 +72,45 @@
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQLite](h
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+## 🛠️ Skills
+
+<div align="center">
+
+**💻 Languages, backend and frontend**
+
+<img src="https://skillicons.dev/icons?i=py,ts,fastapi,postgres,sqlite,react,nextjs,tailwind,docker,git,github&perline=11" alt="Python, TypeScript, FastAPI, PostgreSQL, SQLite, React, Next.js, Tailwind CSS, Docker, Git, GitHub"/>
+
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+
+**🧠 Machine learning and data**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
+**🤖 LLMs and agents**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
+
+**🧩 Concepts**
+
+![Text Classification](https://img.shields.io/badge/Text_Classification-1E3A8A?style=flat-square)
+![Named Entity Tagging](https://img.shields.io/badge/Named_Entity_Tagging-0891B2?style=flat-square)
+![Multi-agent LLM Pipelines](https://img.shields.io/badge/Multi--agent_LLM_Pipelines-7C3AED?style=flat-square)
+![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-F59E0B?style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST_APIs-10B981?style=flat-square)
+![Multi-tenant Databases](https://img.shields.io/badge/Multi--tenant_Databases-DB2777?style=flat-square)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,50:0891B2,100:1E3A8A&height=120&section=footer" width="100%" alt=""/>
